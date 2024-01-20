@@ -4,7 +4,7 @@ const jobs = [
     image: "images/software-engineer.svg",
     details:
       "Responsible for designing, developing and maintaining software systems and applications.",
-    openPositions: "2",
+    openPositions: "25",
     link: "#",
   },
 
