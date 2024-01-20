@@ -1,6 +1,6 @@
 const jobs = [
   {
-    title: "Software Engineer",
+    title: "Webdeveloper Engineer",
     image: "images/software-engineer.svg",
     details:
       "Responsible for designing, developing and maintaining software systems and applications.",
